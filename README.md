@@ -6,7 +6,7 @@ Also have experience with front end technologies stack.
 - 💯 i'm founder of TechBrody
 - 👀 I'm currently learning Magento,Knockoutjs
 - 🌱 I have done many projects for many companies. I love to work on PHP, JS, Laravel, Magento, Knockoutjs,
-- 📫 You can contact me on :- singh.ajmahar888@gmail.com
+- 📫 You can contact me on :- singh.ajmahar@gmail.com
 
 <!---
 techbrody/techbrody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
